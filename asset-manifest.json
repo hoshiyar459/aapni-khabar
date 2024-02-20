@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aapni-khabar/static/css/main.5b4bd97e.css",
-    "main.js": "/aapni-khabar/static/js/main.a1434548.js",
+    "main.css": "/aapni-khabar/static/css/main.eb6f74de.css",
+    "main.js": "/aapni-khabar/static/js/main.5f6cd1ad.js",
     "static/js/592.c31740cf.chunk.js": "/aapni-khabar/static/js/592.c31740cf.chunk.js",
     "index.html": "/aapni-khabar/index.html",
-    "main.5b4bd97e.css.map": "/aapni-khabar/static/css/main.5b4bd97e.css.map",
-    "main.a1434548.js.map": "/aapni-khabar/static/js/main.a1434548.js.map",
+    "main.eb6f74de.css.map": "/aapni-khabar/static/css/main.eb6f74de.css.map",
+    "main.5f6cd1ad.js.map": "/aapni-khabar/static/js/main.5f6cd1ad.js.map",
     "592.c31740cf.chunk.js.map": "/aapni-khabar/static/js/592.c31740cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b4bd97e.css",
-    "static/js/main.a1434548.js"
+    "static/css/main.eb6f74de.css",
+    "static/js/main.5f6cd1ad.js"
   ]
 }
